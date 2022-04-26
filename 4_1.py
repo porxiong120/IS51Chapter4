@@ -96,7 +96,7 @@
 # wage = eval(input("Enter the hourly wage: "))
 # hours = eval(input("Enter the numbers of hours worked: ")) 
 
-# result = pay(wage, hours)
+# result = pay(wage, hours) 
 # #print("Paycheck amount: ", result)
 # print("Earnings: ${0:,.2f}".format(result))
 
