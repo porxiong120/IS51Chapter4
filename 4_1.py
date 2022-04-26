@@ -135,22 +135,22 @@
 #     print(word, "does not contain every vowel.")
 
 
-PI = 3.141529
-def main():
+# PI = 3.141529
+# def main():
 
-    # x = 2 
-    y = 2
-    # print(str(x) + ": function main")
-    print(str(y) + ": function main")
-    trivial()
-    # print(str(x) + ": function main")
-    print(str(y) + ": function main")
+#     # x = 2 
+#     y = 2
+#     # print(str(x) + ": function main")
+#     print(str(y) + ": function main")
+#     trivial()
+#     # print(str(x) + ": function main")
+#     print(str(y) + ": function main")
 
 
-def trivial():
-    x = 3
-    print (str(x) + ": function trivial")
-    #print y # can't b/c y trivial has no y 
-    print(PI)
+# def trivial():
+#     x = 3
+#     print (str(x) + ": function trivial")
+#     #print y # can't b/c y trivial has no y 
+#     print(PI)
 
-main()
+# main()
